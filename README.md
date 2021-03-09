@@ -7,7 +7,7 @@ This notebook implements some foundation machine learning and data science conce
 The goal of this is to mimic what a data scientist or machine learning engineer would produce as **proof of concept**.
 
 ## What is Classification?
-Classification involes deciding whether a sample is part of one class or antoher (single-class classification). If there are multiple class options, it's referred to as **multi-class classification**.
+Classification involes deciding whether a sample is part of one class or another (single-class classification). If there are multiple class options, it's referred to as **multi-class classification**.
 
 ## Implemented concepts
 * **Exploratory Data Analysis** 
